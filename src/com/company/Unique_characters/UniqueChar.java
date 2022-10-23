@@ -33,6 +33,4 @@ public class UniqueChar {
         }
         return true;
     }
-
-
 }
